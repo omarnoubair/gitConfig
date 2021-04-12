@@ -24,7 +24,6 @@ Maintenant configurez votre courrier électronique:
 git config --global user.email "youremail@example.com"
 Vous avez fini avec le premier défi! Cliquez sur le bouton "Vérifier" pour vérifier le défi.
 
-
 Repository
 
 Créer un Dépôt
